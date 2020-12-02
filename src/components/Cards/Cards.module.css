@@ -7,6 +7,16 @@
     margin: 0 2% !important;
 }
 
+.btnMyGov{
+    height: 30px;
+    margin-right: 5px !important;
+    width: 95px;
+}
+
+.btnGrid{
+    margin-top: 10px !important;
+}
+
 .infected{
     border-bottom: 10px solid rgba(0,0,255,0.5);
 }
